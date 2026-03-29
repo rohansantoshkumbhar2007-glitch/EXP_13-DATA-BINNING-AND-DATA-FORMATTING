@@ -1,5 +1,5 @@
-📊 Data Binning and Data Formatting in Python
-📌 Overview
+## 📊 Data Binning and Data Formatting in Python
+# 📌 Overview
 This project demonstrates how to perform data binning and data formatting using Python. These are essential preprocessing techniques used in data analysis, machine learning, and data visualization.
 
 Data Binning: Grouping continuous values into discrete intervals (bins).
